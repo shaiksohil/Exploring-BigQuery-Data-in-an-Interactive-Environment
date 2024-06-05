@@ -1,0 +1,2 @@
+# Exploring-BigQuery-Data-in-an-Interactive-Environment
+The dataset, [available publicly on BigQuery](https://console.cloud.google.com/bigquery?project=bigquery-public-data&amp;d=ga4_obfuscated_sample_ecommerce&amp;p=bigquery-public-data&amp;page=dataset), comes from obfuscated [Google Analytics 4 (GA4) data](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset) from the Google
